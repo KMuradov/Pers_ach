@@ -1,0 +1,62 @@
+C:\Users\Kamil_000\Desktop\School_Project\Pers_ach\bin\Debug\Pers_ach.exe.config
+C:\Users\Kamil_000\Desktop\School_Project\Pers_ach\bin\Debug\Pers_ach.exe
+C:\Users\Kamil_000\Desktop\School_Project\Pers_ach\bin\Debug\Pers_ach.pdb
+C:\Users\Kamil_000\Desktop\School_Project\Pers_ach\obj\Debug\Pers_ach.csprojAssemblyReference.cache
+C:\Users\Kamil_000\Desktop\School_Project\Pers_ach\obj\Debug\Pers_ach.Main.resources
+C:\Users\Kamil_000\Desktop\School_Project\Pers_ach\obj\Debug\Pers_ach.Properties.Resources.resources
+C:\Users\Kamil_000\Desktop\School_Project\Pers_ach\obj\Debug\Pers_ach.csproj.GenerateResource.cache
+C:\Users\Kamil_000\Desktop\School_Project\Pers_ach\obj\Debug\Pers_ach.csproj.CoreCompileInputs.cache
+C:\Users\Kamil_000\Desktop\School_Project\Pers_ach\obj\Debug\Pers_ach.exe
+C:\Users\Kamil_000\Desktop\School_Project\Pers_ach\obj\Debug\Pers_ach.pdb
+C:\Users\Kamil_000\Desktop\School_project\Pers_ach\bin\Debug\MySql.Data.dll
+C:\Users\Kamil_000\Desktop\School_project\Pers_ach\bin\Debug\MySql.Web.dll
+C:\Users\Kamil_000\Desktop\School_project\Pers_ach\bin\Debug\Google.Protobuf.dll
+C:\Users\Kamil_000\Desktop\School_project\Pers_ach\bin\Debug\MySql.Data.xml
+C:\Users\Kamil_000\Desktop\School_project\Pers_ach\bin\Debug\MySql.Web.xml
+C:\Users\Kamil_000\Desktop\School_project\Pers_ach\obj\Debug\Pers_ach.csproj.CopyComplete
+E:\School_project\Pers_ach\bin\Debug\Pers_ach.exe.config
+E:\School_project\Pers_ach\bin\Debug\Pers_ach.exe
+E:\School_project\Pers_ach\bin\Debug\Pers_ach.pdb
+E:\School_project\Pers_ach\bin\Debug\Google.Protobuf.dll
+E:\School_project\Pers_ach\bin\Debug\MySql.Data.xml
+E:\School_project\Pers_ach\bin\Debug\MySql.Web.xml
+E:\School_project\Pers_ach\obj\Debug\Pers_ach.csprojAssemblyReference.cache
+E:\School_project\Pers_ach\obj\Debug\Pers_ach.Main.resources
+E:\School_project\Pers_ach\obj\Debug\Pers_ach.Properties.Resources.resources
+E:\School_project\Pers_ach\obj\Debug\Pers_ach.csproj.GenerateResource.cache
+E:\School_project\Pers_ach\obj\Debug\Pers_ach.csproj.CoreCompileInputs.cache
+E:\School_project\Pers_ach\obj\Debug\Pers_ach.csproj.CopyComplete
+E:\School_project\Pers_ach\obj\Debug\Pers_ach.exe
+E:\School_project\Pers_ach\obj\Debug\Pers_ach.pdb
+I:\School_project\Pers_ach\bin\Debug\Pers_ach.exe.config
+I:\School_project\Pers_ach\bin\Debug\Pers_ach.exe
+I:\School_project\Pers_ach\bin\Debug\Pers_ach.pdb
+I:\School_project\Pers_ach\bin\Debug\MySql.Data.dll
+I:\School_project\Pers_ach\bin\Debug\MySql.Web.dll
+I:\School_project\Pers_ach\bin\Debug\Google.Protobuf.dll
+I:\School_project\Pers_ach\bin\Debug\MySql.Data.xml
+I:\School_project\Pers_ach\bin\Debug\MySql.Web.xml
+I:\School_project\Pers_ach\obj\Debug\Pers_ach.csprojAssemblyReference.cache
+I:\School_project\Pers_ach\obj\Debug\Pers_ach.Main.resources
+I:\School_project\Pers_ach\obj\Debug\Pers_ach.Properties.Resources.resources
+I:\School_project\Pers_ach\obj\Debug\Pers_ach.csproj.GenerateResource.cache
+I:\School_project\Pers_ach\obj\Debug\Pers_ach.csproj.CoreCompileInputs.cache
+I:\School_project\Pers_ach\obj\Debug\Pers_ach.csproj.CopyComplete
+I:\School_project\Pers_ach\obj\Debug\Pers_ach.exe
+I:\School_project\Pers_ach\obj\Debug\Pers_ach.pdb
+C:\Users\Kamil_000\Desktop\Новая папка\Pers_ach\obj\Debug\Pers_ach.csprojAssemblyReference.cache
+C:\Users\Kamil_000\Desktop\Новая папка\Pers_ach\obj\Debug\Pers_ach.Main.resources
+C:\Users\Kamil_000\Desktop\Новая папка\Pers_ach\obj\Debug\Pers_ach.Properties.Resources.resources
+C:\Users\Kamil_000\Desktop\Новая папка\Pers_ach\obj\Debug\Pers_ach.csproj.GenerateResource.cache
+C:\Users\Kamil_000\Desktop\Новая папка\Pers_ach\obj\Debug\Pers_ach.csproj.CoreCompileInputs.cache
+C:\Users\Kamil_000\Desktop\Новая папка\Pers_ach\obj\Debug\Pers_ach.exe
+C:\Users\Kamil_000\Desktop\Новая папка\Pers_ach\obj\Debug\Pers_ach.pdb
+C:\Users\Kamil_000\Desktop\Новая папка\Pers_ach\bin\Debug\Pers_ach.exe.config
+C:\Users\Kamil_000\Desktop\Новая папка\Pers_ach\bin\Debug\Pers_ach.exe
+C:\Users\Kamil_000\Desktop\Новая папка\Pers_ach\bin\Debug\Pers_ach.pdb
+C:\Users\Kamil_000\Desktop\Новая папка\Pers_ach\bin\Debug\MySql.Data.dll
+C:\Users\Kamil_000\Desktop\Новая папка\Pers_ach\bin\Debug\MySql.Web.dll
+C:\Users\Kamil_000\Desktop\Новая папка\Pers_ach\bin\Debug\Google.Protobuf.dll
+C:\Users\Kamil_000\Desktop\Новая папка\Pers_ach\bin\Debug\MySql.Data.xml
+C:\Users\Kamil_000\Desktop\Новая папка\Pers_ach\bin\Debug\MySql.Web.xml
+C:\Users\Kamil_000\Desktop\Новая папка\Pers_ach\obj\Debug\Pers_ach.csproj.CopyComplete
